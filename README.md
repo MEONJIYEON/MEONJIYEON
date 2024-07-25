@@ -14,9 +14,7 @@ Backend Developer
 <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-<br>
-<img src="http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+
 <br>
 <img src="https://img.shields.io/badge/JSP-CB3837?style=flat&logo=JSP&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -30,9 +28,10 @@ Backend Developer
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?style=flat&logo=Apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
-<br>
 
-	
+<br>
+<img src="http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" />
+<img src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />	
 
 <h3>💻 Projects </h3>
 
