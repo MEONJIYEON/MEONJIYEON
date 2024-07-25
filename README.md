@@ -9,8 +9,9 @@ Backend Developer
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <br>
-<img src="http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django" />
 <img src="http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+<img src="http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django" />
+
 <br>
 <img src="http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white" />
 <img src="http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" />
