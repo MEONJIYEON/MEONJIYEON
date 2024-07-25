@@ -46,7 +46,7 @@ Backend Developer
 |<a href="https://github.com/orgs/KB-FulfillmentProject/repositories">fulfillment</a>|MSA 기반 프로젝트|2024.05|Spring Boot|
 |<a href="https://github.com/orgs/Lighting-Solution/repositories">intranet solution</a>|인트라넷 솔루션|2024.06-2024.07|Spring Boot|
 
-## 💭 About me | How to reach me
+<h3> 📫 About me | How to reach me </h3>
 - Contact :  <l_jiyeon0_0@naver.com>
 - Dev_Blog : https://meonjiyeon.tistory.com/
 - 🛠 I'm still getting ready!
