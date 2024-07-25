@@ -48,7 +48,9 @@ Backend Developer
 
 <h3> 📫 About me | How to reach me </h3>
 - Contact :  <l_jiyeon0_0@naver.com>
+	<br>
 - Dev_Blog : https://meonjiyeon.tistory.com/
+	<br>
 - 🛠 I'm still getting ready!
 
 </div>
