@@ -41,6 +41,8 @@ Backend Developer
   |TITLE|ABOUT|TERM|TECH|
 |:---:|:---:|:---:|:---:|
 |<a href="https://github.com/MEONJIYEON/hospital_reservation_web">hospital_reservation_web</a>|병원 예약 사이트|2022.09 – 2022.10|Spring Boot|
-
+|<a href="https://github.com/MEONJIYEON/shoppingMall">shoppingMall</a>|쇼핑몰 프로젝트(올리브엉)|2024.04|Java|
+|<a href="https://github.com/orgs/KB-FulfillmentProject/repositories">fulfillment</a>|MSA 기반 프로젝트|2024.05|Spring Boot|
+|<a href="https://github.com/orgs/Lighting-Solution/repositories">intranet solution</a>|인트라넷 솔루션|2024.06-2024.07|Spring Boot|
 </div>
 </div>
